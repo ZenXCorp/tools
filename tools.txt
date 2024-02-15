@@ -1,0 +1,36 @@
+{
+  {
+    "color":"122; 43; 250",
+    "author":"brzzl", 
+    "tool_name":"$ Rzl Tool",
+    "tool_release_date":"12/11/23",
+    "tool_version":"1.0",
+    "tool_description":"Tool to raid servers in a personalized way with many options",
+    "tool_features":{
+      "1":"Custom raid",
+      "2":"More than 20 options to attack",
+      "3":"Without ads",
+      "4":"FREE",
+    },
+    "tool_image":"https://media.discordapp.net/attachments/1172295274379612210/1207718380409462854/Screenshot_2024-01-02_213202.jpg?ex=65e0aa64&is=65ce3564&hm=f696f2fe4577a74cb7acf8b397f94224a710fd429c2c947f205a419bae14e4e0&=&format=webp&width=1007&height=563",
+    "tool_icon":"Icon_Link",
+    "tool_download":"Download_Link"
+  },
+  {
+      "color":"122; 43; 250",
+      "author":"bznt", 
+      "tool_name":"Utilities X",
+      "tool_release_date":"12/02/24",
+      "tool_version":"1.0",
+      "tool_description":"Descripción xd",
+      "tool_features":{
+        "1":"Custom",
+        "2":"More than 20 options to attack",
+        "3":"Without ads",
+        "4":"FREE",
+      },
+      "tool_image":"Image_Link",
+      "tool_icon":"Icon_Link",
+      "tool_download":"Download_Link"
+    }
+}
